@@ -21,7 +21,7 @@
 <h2></h2>
 <div align="center">
 
-![badges](https://img.shields.io/badge/Github__Profilev_Last__Update-14_Nov_2024-blue?style=flat)
+![badges](https://img.shields.io/badge/Github__Profile_Last__Update-14_Nov_2024-blue?style=flat)
 
 </div>
 
