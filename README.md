@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Stamp Setsiri</h1>
+![{E938FC99-31F4-4D02-8007-F0186FB19743}](https://github.com/user-attachments/assets/dfecbf5d-8844-4f34-8ce0-aaa8a813de8b)<h1 align="center">Hi 👋, I'm Stamp Setsiri</h1>
 <h3 align="center">A Junior Full-Stack Dev, Computer Engineer</h3>
 
 <p align="left">
 </p>
+
 
 
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,pr,arduino,bash,java,c,cs,cpp,py,bootstrap,css,html,js,ts,php,docker,git,kubernetes,azure,latex,linux,mysql,nginx,nodejs,react&theme=dark)](https://skillicons.dev)
@@ -16,3 +17,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=setsiri&layout=compact&langs_count=8&card_width=320" />
 </a>
 </div>
+
+<h3></h3>
+
+![badges](https://img.shields.io/badge/Last_Github_Profile_Update-14_Nov_2024-blue?style=flat)
