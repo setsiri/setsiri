@@ -1,4 +1,4 @@
-![{E938FC99-31F4-4D02-8007-F0186FB19743}](https://github.com/user-attachments/assets/dfecbf5d-8844-4f34-8ce0-aaa8a813de8b)<h1 align="center">Hi 👋, I'm Stamp Setsiri</h1>
+<h1 align="center">Hi 👋, I'm Stamp Setsiri</h1>
 <h3 align="center">A Junior Full-Stack Dev, Computer Engineer</h3>
 
 <p align="left">
@@ -18,6 +18,10 @@
 </a>
 </div>
 
-<h3></h3>
+<h2></h2>
+<div align="center">
 
 ![badges](https://img.shields.io/badge/Last_Github_Profile_Update-14_Nov_2024-blue?style=flat)
+
+</div>
+
