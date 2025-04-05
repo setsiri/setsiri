@@ -6,7 +6,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,pr,arduino,bash,java,c,cs,cpp,py,bootstrap,css,html,js,ts,php,docker,git,kubernetes,azure,latex,linux,mysql,nginx,nodejs,react&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,pr,arduino,bash,java,c,cs,cpp,py,bootstrap,css,html,js,ts,php,docker,git,kubernetes,azure,latex,linux,mysql,nginx,nodejs,react,notion,githubactions,npm&theme=dark)](https://skillicons.dev)
 
 <h2 align="center"> My github Stats:</h2>
 <div align="center">
