@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stamp Setsiri</h1>
-<h3 align="center">A Junior Full-Stack Dev, Computer Engineer</h3>
+<h3 align="center">A Junior Full-Stack Dev, Software Engineer</h3>
 
 <p align="left">
 </p>
